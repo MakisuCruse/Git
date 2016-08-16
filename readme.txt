@@ -1,4 +1,4 @@
-git track modify not file
+igit track modify not file
 Git is a  a version control...
 Git need to be learned
 Git new line
