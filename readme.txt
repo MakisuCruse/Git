@@ -8,3 +8,5 @@ resubmit by git push operator
 new branch
 ----------
 new add by branch
+
+Creating a new branch is quick AND simple.
